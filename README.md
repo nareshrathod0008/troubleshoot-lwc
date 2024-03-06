@@ -5,7 +5,7 @@ Open Visual Studio Code and clone this GitHub repo.
 In Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Windows) or Cmd+Shift+P (macOS).
 Enter git.
 Select Git: Clone.
-Enter https://github.com/developerforce/troubleshoot-lwc.git and press Enter.
+ 
 Select Desktop and then click Select Repository Location.
 Update Salesforce CLI
 It's always a good idea to update to the latest CLI
