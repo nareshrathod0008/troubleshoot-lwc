@@ -43,12 +43,12 @@ In Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Window
 <br>6.Log in using your Trailhead Playground credentials.</br>
 <br>7.If you're prompted to allow access, click Allow.</br>
 <h1>Deploy to Playground</h1>
-Right-click the default folder under force-app/main.
-Click SFDX: Deploy Source to Org.
-Assign Permission Set
-Click View, and then select Terminal. A terminal window opens in Visual Studio Code. The terminal defaults to the top-level directory of the project.
-Assign the Solutions Full Access permission set to the default user by running this command in the terminal:
-sfdx force:user:permset:assign -n Solutions_Full_Access
-View the Solutions App
-In your Trailhead Playground, in App Launcher, search for sol.
-Select Solutions.
+<br>1.Right-click the default folder under force-app/main.
+<br>2.Click SFDX: Deploy Source to Org.
+<h1>Assign Permission Set</h1>
+<br>1.Click View, and then select Terminal. A terminal window opens in Visual Studio Code. The terminal defaults to the top-level directory of the project.
+<br>2.Assign the Solutions Full Access permission set to the default user by running this command in the terminal:
+<h5>sfdx force:user:permset:assign -n Solutions_Full_Access</h5>
+<h1>View the Solutions App</h1>
+<br>1.In your Trailhead Playground, in App Launcher, search for sol.
+<br>2.Select Solutions.
