@@ -15,10 +15,13 @@ Select Desktop and then click Select Repository Location.
 <br>
 
 <h1>Update Salesforce CLI</h1>
-It's always a good idea to update to the latest CLI
 
-Click View, and then select Terminal to open a terminal in Visual Studio Code.
-Update the CLI by running this command in the terminal:
+<h6>It's always a good idea to update to the latest CLI</h6>
+
+1.Click View, and then select Terminal to open a terminal in Visual Studio Code.
+<br>
+2.Update the CLI by running this command in the terminal:
+<br>
 sfdx update
 Create DX Project
 Open the Command Palette.
