@@ -9,8 +9,7 @@ In Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Window
 1.Enter git.
 <br>
 2.Select Git: Clone.
-<br>
- 
+<br> 
 3.Select Desktop and then click Select Repository Location.
 <br>
 
@@ -27,16 +26,14 @@ In Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Window
 
 <h1>Create DX Project</h1>
 
-1.Open the Command Palette.<br>
-
-<br>2.Enter sfdx.
-
-<br>3.Select SFDX: Create Project.
-<br>4.Select Standard.
-5.Enter troubleshoot-lwc as the project name and press Enter.
-6.Select Desktop for folder to store the project.
-7.Click Create Project.
-8.Click Overwrite.
+1.Open the Command Palette.</br>
+<br>2.Enter sfdx.</br>
+<br>3.Select SFDX: Create Project.</br>
+<br>4.Select Standard.</br>
+<br>5.Enter troubleshoot-lwc as the project name and press Enter.</br>
+<br>6.Select Desktop for folder to store the project.</br>
+<br>7.Click Create Project.</br>
+<br>8.Click Overwrite.</br>
 <h1>Authorize Your Trailhead Playground</h1>
 <br>1.Open the Command Palette.
 Enter sfdx.
