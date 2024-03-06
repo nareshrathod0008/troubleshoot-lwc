@@ -12,7 +12,9 @@ Select Git: Clone.
 <br>
  
 Select Desktop and then click Select Repository Location.
-Update Salesforce CLI
+<br>
+
+<h1>Update Salesforce CLI</h1>
 It's always a good idea to update to the latest CLI
 
 Click View, and then select Terminal to open a terminal in Visual Studio Code.
