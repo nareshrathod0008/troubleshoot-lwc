@@ -22,18 +22,22 @@ Select Desktop and then click Select Repository Location.
 <br>
 2.Update the CLI by running this command in the terminal:
 <br>
-sfdx update
-Create DX Project
-Open the Command Palette.
-Enter sfdx.
-Select SFDX: Create Project.
-Select Standard.
-Enter troubleshoot-lwc as the project name and press Enter.
-Select Desktop for folder to store the project.
-Click Create Project.
-Click Overwrite.
-Authorize Your Trailhead Playground
-Open the Command Palette.
+
+<h5>sfdx update</h5>
+
+<h1>Create DX Project</h1>
+
+1.Open the Command Palette.<br>
+
+2.Enter sfdx.
+3.Select SFDX: Create Project.
+4.Select Standard.
+5.Enter troubleshoot-lwc as the project name and press Enter.
+6.Select Desktop for folder to store the project.
+7.Click Create Project.
+8.Click Overwrite.
+9.Authorize Your Trailhead Playground
+10.Open the Command Palette.
 Enter sfdx.
 Select SFDX: Authorize an Org.
 Press Enter to accept the Project Default login URL option.
