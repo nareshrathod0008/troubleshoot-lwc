@@ -6,12 +6,12 @@
 In Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Windows) or Cmd+Shift+P (macOS).
 
 <br>
-Enter git.
+1.Enter git.
 <br>
-Select Git: Clone.
+2.Select Git: Clone.
 <br>
  
-Select Desktop and then click Select Repository Location.
+3.Select Desktop and then click Select Repository Location.
 <br>
 
 <h1>Update Salesforce CLI</h1>
@@ -29,7 +29,7 @@ Select Desktop and then click Select Repository Location.
 
 1.Open the Command Palette.<br>
 
-2.Enter sfdx.
+<br>2.Enter sfdx.
 3.Select SFDX: Create Project.
 4.Select Standard.
 5.Enter troubleshoot-lwc as the project name and press Enter.
@@ -37,7 +37,7 @@ Select Desktop and then click Select Repository Location.
 7.Click Create Project.
 8.Click Overwrite.
 9.Authorize Your Trailhead Playground
-10.Open the Command Palette.
+10.Open the Command Palette.</br>
 Enter sfdx.
 Select SFDX: Authorize an Org.
 Press Enter to accept the Project Default login URL option.
