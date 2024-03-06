@@ -35,14 +35,14 @@ In Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Window
 <br>7.Click Create Project.</br>
 <br>8.Click Overwrite.</br>
 <h1>Authorize Your Trailhead Playground</h1>
-<br>1.Open the Command Palette.
-Enter sfdx.
-Select SFDX: Authorize an Org.
-Press Enter to accept the Project Default login URL option.
-Press Enter to accept the default alias. Salesforce login opens in a separate browser window.
-Log in using your Trailhead Playground credentials.
-If you're prompted to allow access, click Allow.
-Deploy to Playground
+<br>1.Open the Command Palette.</br>
+<br>2.Enter sfdx.</br>
+<br>3.Select SFDX: Authorize an Org.</br>
+<br>4.Press Enter to accept the Project Default login URL option.</br>
+<br>5.Press Enter to accept the default alias. Salesforce login opens in a separate browser window.</br>
+<br>6.Log in using your Trailhead Playground credentials.</br>
+<br>7.If you're prompted to allow access, click Allow.</br>
+<h1>Deploy to Playground</h1>
 Right-click the default folder under force-app/main.
 Click SFDX: Deploy Source to Org.
 Assign Permission Set
