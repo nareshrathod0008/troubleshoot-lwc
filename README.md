@@ -1,7 +1,7 @@
 # troubleshoot-lwc
-Download Components for the Troubleshooting Lightning Web Components Trailhead Badge
+<h5>Download Components for the Troubleshooting Lightning Web Components Trailhead Badge<h5>
 
-Open Visual Studio Code and clone this GitHub repo.
+<h1>Open Visual Studio Code and clone this GitHub repo.</h1>
 <br>
 In Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Windows) or Cmd+Shift+P (macOS).
 
