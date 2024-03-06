@@ -30,14 +30,15 @@ In Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Window
 1.Open the Command Palette.<br>
 
 <br>2.Enter sfdx.
-3.Select SFDX: Create Project.
-4.Select Standard.
+
+<br>3.Select SFDX: Create Project.
+<br>4.Select Standard.
 5.Enter troubleshoot-lwc as the project name and press Enter.
 6.Select Desktop for folder to store the project.
 7.Click Create Project.
 8.Click Overwrite.
-9.Authorize Your Trailhead Playground
-10.Open the Command Palette.</br>
+<h1>Authorize Your Trailhead Playground</h1>
+<br>1.Open the Command Palette.
 Enter sfdx.
 Select SFDX: Authorize an Org.
 Press Enter to accept the Project Default login URL option.
