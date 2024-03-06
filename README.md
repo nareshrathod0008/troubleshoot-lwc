@@ -2,9 +2,14 @@
 Download Components for the Troubleshooting Lightning Web Components Trailhead Badge
 
 Open Visual Studio Code and clone this GitHub repo.
+<br>
 In Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Windows) or Cmd+Shift+P (macOS).
+
+<br>
 Enter git.
+<br>
 Select Git: Clone.
+<br>
  
 Select Desktop and then click Select Repository Location.
 Update Salesforce CLI
