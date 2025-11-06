@@ -46,6 +46,9 @@ In Visual Studio Code, open the Command Palette by pressing Ctrl+Shift+P (Window
 <br>1.Right-click the default folder under force-app/main.
 <br>2.Click SFDX: Deploy Source to Org.
 <h1>Assign Permission Set</h1>
+
+
+Author --> Naresh rathod
 <br>1.Click View, and then select Terminal. A terminal window opens in Visual Studio Code. The terminal defaults to the top-level directory of the project.
 <br>2.Assign the Solutions Full Access permission set to the default user by running this command in the terminal:
 <h5>sfdx force:user:permset:assign -n Solutions_Full_Access</h5>
